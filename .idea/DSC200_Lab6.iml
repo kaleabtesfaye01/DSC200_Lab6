@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
+=======
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.9 (pythonProject9)" jdkType="Python SDK" />
+>>>>>>> 66a73b17f5b66c888eca3cd7eab2152b221f3051
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
